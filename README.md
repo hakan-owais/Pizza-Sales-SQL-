@@ -26,13 +26,6 @@ The analysis includes 13 SQL queries addressing various aspects of the dataset:
 11. Contribution of Revenue by Each Pizza Category in Percentage.
 12. Cumulative Revenue Generated Over Time.
 13. Category-wise Top 3 Revenue-Generated Pizzas.
-    
-**Visualizations**<br />
-Visualizations created using Excel enhance the insights derived from SQL queries.
-1. Pizza Ordered Quantity by Size (Bar Chart)
-2. Top 5 Most Ordered Pizzas (Bar Chart)
-3. Contribution of Revenue by Category (Pie Chart)
-4. Cumulative Revenue Over Time (Line Chart)
    
 **Key Learnings**<br />
 Improved SQL proficiency, including advanced JOINs, aggregations, and filtering.
@@ -44,11 +37,11 @@ This project showcased SQL's power in deriving actionable insights from structur
 business analytics.
 
 **How to Use This Repository**<br />
-Clone the repository.
-Access the dataset and SQL query files.
-Review the Pizza Sales Analysis.pdf report for detailed insights.
+Clone the repository.<br />
+Access the dataset and SQL query files.<br />
+Review the Pizza Sales Analysis.pdf report for detailed insights.<br />
 
 **Connect with Me**<br />
 I’d love to hear your feedback or suggestions for improvement!<br />
 [LinkedIn](http://www.linkedin.com/in/mohammed-o-7a0879266) <br />
-GitHub
+[GitHub](https://github.com/hakan-owais)
