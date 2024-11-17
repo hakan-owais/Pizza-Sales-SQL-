@@ -50,5 +50,5 @@ Review the Pizza Sales Analysis.pdf report for detailed insights.
 
 **Connect with Me**<br />
 I’d love to hear your feedback or suggestions for improvement!<br />
-www.linkedin.com/in/mohammed-o-7a0879266 <br />
+[LinkedIn](http://www.linkedin.com/in/mohammed-o-7a0879266) <br />
 GitHub
