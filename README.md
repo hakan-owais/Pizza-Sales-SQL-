@@ -1,4 +1,4 @@
-# Pizza-Sales-SQL
+# Pizza-Sales-Analysis
 Author: Mohammed Owaise
 
 **Overview** <br />
